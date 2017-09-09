@@ -50,3 +50,5 @@ node_modules/
 # TypeScript generated files
 lib/*.js
 lib/*.d.ts
+
+testAuth.json
