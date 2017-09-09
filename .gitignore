@@ -47,5 +47,6 @@ node_modules/
 # dotenv environment variables file
 .env
 
-# TypeScript generated JavaScript
+# TypeScript generated files
 lib/*.js
+lib/*.d.ts
