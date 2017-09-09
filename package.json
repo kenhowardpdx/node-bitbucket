@@ -1,0 +1,17 @@
+{
+  "name": "node-bitbucket",
+  "version": "1.0.0",
+  "description": "Bitbucket API 2.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.0.28",
+    "typescript": "^2.5.2"
+  }
+}
